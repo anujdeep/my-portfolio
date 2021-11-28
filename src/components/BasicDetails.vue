@@ -6,7 +6,7 @@
         <div id="name">Anuj Deep</div>
         <div id="role">FullStack developer</div>
         <div>
-          <img src="../assets/email.png" id="img" /><span>
+          <img src="../assets/email.png" id="img" /><span id="email-name">
             anujdeepktr@gmail.com</span
           >
         </div>
@@ -71,6 +71,10 @@ a {
 @media only screen and (max-width: 600px) {
   #email {
     display: flex;
+    flex-shrink: 1;
+  }
+  #email-name {
+    flex-shrink: 1;
   }
 }
 </style>
