@@ -68,4 +68,9 @@ a {
   margin-left: 2px;
   margin-right: 4px;
 }
+@media only screen and (max-width: 600px) {
+  #email {
+    display: flex;
+  }
+}
 </style>
