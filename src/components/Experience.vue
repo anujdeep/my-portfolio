@@ -86,4 +86,17 @@ div {
   color: gray;
   font-size: 12px;
 }
+@media only screen and (max-width: 600px) {
+  #experience-info {
+    margin-left: 10vw !important;
+  }
+  #company-1 {
+    width: 10vw;
+    height: 10vh;
+  }
+  #company-2 {
+    width: 10vw;
+    height: 10vh;
+  }
+}
 </style>
