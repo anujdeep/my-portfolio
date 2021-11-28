@@ -31,7 +31,7 @@ export default {
         {
           name: "Techno India College of Technology, Kolkata",
           Course: "B.Tech(Computer Science Eng.)",
-          Percentage: 73.4,
+          Percentage: 74.8,
         },
         {
           name: "Jawahar Navodaya Vidyalaya, Katihar",
